@@ -46,21 +46,21 @@ v1.0.3+nexus.1
 	<dir>
 			<info compressed="false">https://raw.githubusercontent.com/Drakkotv/drakkotv/master/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/Drakkotv/drakkotv/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/drakkotv/drakkotv.github.io/raw/master</datadir>
+			<datadir zip="true">https://github.com/Drakkotv/drakkotv.github.io/raw/master</datadir>
 			<hashes>false</hashes>
     </dir>
 	
 	<dir minversion="16.0.0" maxversion="18.9.0">
 			<info compressed="false">https://raw.githubusercontent.com/Drakkotv/drakkotv/master/leia/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/Drakkotv/drakkotv/master/leia/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/drakkotv/drakkotv.github.io/raw/master/leia</datadir>
+			<datadir zip="true">https://github.com/Drakkotv/drakkotv.github.io/raw/master/leia</datadir>
 			<hashes>false</hashes>
     </dir>
    
    <dir minversion="18.9.1">
 			<info compressed="false">https://raw.githubusercontent.com/Drakkotv/drakkotv/master/matrix/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/Drakkotv/drakkotv/master/matrix/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/drakkotv/drakkotv.github.io/raw/master/matrix</datadir>
+			<datadir zip="true">https://github.com/Drakkotv/drakkotv.github.io/raw/master/matrix</datadir>
 			<hashes>false</hashes>
     </dir>
 	
@@ -71,7 +71,7 @@ v1.0.3+nexus.1
 		<summary lang="pt_br"></summary>
         <description lang="pt_br"></description>
 		<platform>all</platform>
-		<source>http://raw.github.com/drakkotv/drakkotv.github.io/master</source>
+		<source>http://raw.github.com/Drakkotv/drakkotv.github.io/master</source>
 		 <assets>
             <icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
