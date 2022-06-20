@@ -38,7 +38,7 @@
 </addon>
 
 <addon 	
-		id="drakkotv.repo" name="[B][COLOR yellow]  Drakkotv  [COLOR orange]Repositorio Oficial![/B][/COLOR]"
+		id="drakkotv.repo" name="[B][COLOR yellow]  Drakkotv  [COLOR orange]Repositorio DrakkoTV Oficial![/B][/COLOR]"
 		version="1.0.1"
 		provider-name="[B][COLOR gold]Magusplay TEAM[/B][/COLOR]">
 		
@@ -50,22 +50,22 @@
 		
 		
 	<dir>
-			<info compressed="false">https://github.com/drakkotv/drakkotv.github.io/raw/master/addons.xml</info>
-			<checksum>https://github.com/drakkotv/drakkotv.github.io/raw/master/addons.xml.md5</checksum>
+			<info compressed="false">https://raw.githubusercontent.com/Drakkotv/drakkotv/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Drakkotv/drakkotv/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/drakkotv/drakkotv.github.io/raw/master</datadir>
 			<hashes>false</hashes>
     </dir>
 	
 	<dir minversion="16.0.0" maxversion="18.9.0">
-			<info compressed="false">https://github.com/drakkotv/drakkotv.github.io/raw/master/leia/addons.xml</info>
-			<checksum>https://github.com/drakkotv/drakkotv.github.io/raw/master/leia/addons.xml.md5</checksum>
+			<info compressed="false">https://raw.githubusercontent.com/Drakkotv/drakkotv/master/leia/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Drakkotv/drakkotv/master/leia/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/drakkotv/drakkotv.github.io/raw/master/leia</datadir>
 			<hashes>false</hashes>
     </dir>
    
    <dir minversion="18.9.1">
-			<info compressed="false">https://github.com/drakkotv/drakkotv.github.io/raw/master/matrix/addons.xml</info>
-			<checksum>https://github.com/drakkotv/drakkotv.github.io/raw/master/matrix/addons.xml.md5</checksum>
+			<info compressed="false">https://raw.githubusercontent.com/Drakkotv/drakkotv/master/matrix/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Drakkotv/drakkotv/master/matrix/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/drakkotv/drakkotv.github.io/raw/master/matrix</datadir>
 			<hashes>false</hashes>
     </dir>
