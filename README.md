@@ -1,6 +1,6 @@
 # Repositorio Drakkotv
 
- Como Instalar o repositório Drakkotv para ter acesso aos Mlehores Conteúdos da Atualidade!
+ Como Instalar o repositório Drakkotv para ter acesso aos Melhores Conteúdos da Atualidade!
 
 
 <p align="left">
