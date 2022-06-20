@@ -17,4 +17,4 @@
   </ul>
 </p>
 
-## Use, Abuse e Reuse!
+## Divirta-se!
