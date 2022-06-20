@@ -1,16 +1,22 @@
-### Hi there 👋
+# Repositorio Drakkotv
+ Repositorio Oficial VIkings Build Somente Addons, super seleção de addons em Idioma BR e PT da Atualidade!
+ 
+ 
+ Como Instalar o repositório Drakkotv para ter acesso aos Mlehores Conteúdos da Atualidade!
 
-<!--
-**Drakkotv/drakkotv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+  <ul>
+    <li>Vá para as configurações do Kodi, GESTOR DE ARQUIVOS (FILE MANAGER).</li>
+    <li>Clque em "Adicionar Origem"</li>
+    <li>O endereço para a fonte é <code>https://drakkotv.github.io/drakkotv</code> (Dê o nome de "Drakkotv").</li>
+    <li>Confirme e retorne a tela principal, e vá para "Add-ons"</li>
+    <li>Em Add-ons, CLique  no icone de uma CAIXINGA DE PAPELÂO, em seguida vá em INSTALAR A PARTIR DE UM ARQUIVO ZIP. Na realação de Dispositivos, selecione o dispositivo VIKINGS, e pressione ok</a>.</li>
+    <li>Após a Intalação, Retorne para Add-ons, clique novamente na CAIXINHA DE PAPELÃO, e selecione "Instalar via repositório"</li>
+    <li>Seleciono o "drakkotv Repositório"</li>
+    
+                                       ** Pronto, Tudo certo, agora é só se divertir instalando os melhores Add-ons BR!**
+  </ul>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Use, Abuse e Reuse!
