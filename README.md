@@ -1,7 +1,5 @@
 # Repositorio Drakkotv
- Repositorio Oficial VIkings Build Somente Addons, super seleção de addons em Idioma BR e PT da Atualidade!
- 
- 
+
  Como Instalar o repositório Drakkotv para ter acesso aos Mlehores Conteúdos da Atualidade!
 
 
