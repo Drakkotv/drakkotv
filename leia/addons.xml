@@ -36,7 +36,6 @@
     </assets>
   </extension>
 </addon>
-
 <addon 	
 		id="drakkotv.repo" name="[B][COLOR yellow]  Drakkotv  [COLOR orange]Repositorio DrakkoTV Oficial![/B][/COLOR]"
 		version="1.0.1"
@@ -77,7 +76,7 @@
 		<summary lang="pt_br"></summary>
         <description lang="pt_br"></description>
 		<platform>all</platform>
-		<source>http://raw.github.com/drakkotv/drakkotv.github.io/master</source>
+		<source>http://raw.github.com/Drakkotv/drakkotv.github.io/master</source>
 		 <assets>
             <icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
