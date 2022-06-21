@@ -9,7 +9,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://drakkotv.github.io/drakkotv/</code> (Dar o nome de "drakkotv").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "drakkotv.repo", e instalar <a href="drakkotv.repo.zip">repository.drakkotv.repo.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "drakkotv.repo", e instalar <a href="drakkotv.repo.zip">drakkotv.repo.zip</a>.</li>
     -
     <li>Repositório Instalado!</li>
     
