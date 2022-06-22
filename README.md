@@ -1,20 +1,21 @@
-# Repositorio Drakkotv+
+# <a href="repository.equilibrium.zip">DOWNLOAD REPOSITÓRIO</a>
 
- Como Instalar o repositório Drakkotv+ para ter acesso aos Melhores Conteúdos da Atualidade!
+Instruções para a adição no gestor:
 
 
 <p align="left">
   <ul>
-    <li>Vá para as configurações do Kodi, GESTOR DE ARQUIVOS (FILE MANAGER).</li>
-    <li>Clque em "Adicionar Origem"</li>
-    <li>O endereço para a fonte é <code>https://drakkotv.github.io/drakkotv/</code> (Dê o nome de "Drakkotv+").</li>
-    <li>Confirme e retorne a tela principal, e vá para "Add-ons"</li>
-    <li>Em Add-ons, CLique  no icone de uma CAIXINHA DE PAPELÂO, em seguida vá em INSTALAR A PARTIR DE UM ARQUIVO ZIP. Na realação de itens, selecione a opção Drakkotv+, e pressione ok</a>.</li>
-    <li>Escolha a versão do addon compatível com seu dispositivo </li>
-    <li>Drakkotv Repositório</li>
+    <li>Ir para o Kodi gestor de ficheiros.</li>
+    <li>Clicar em "Adicionar fonte"</li>
+    <li>O endereço para a fonte é <code>https://drakkotv.github.io/drakkotv/</code> (Dar o nome de "repository.drakkotv").</li>
+    <li>Ir para "Addons"</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Drakkotv.repo", e instalar <a href="repository.drakkotv.zip">repository.drakkotv.zip</a>.</li>
+    -
+    <li>Repositório Instalado!</li>
     
-                                       ** Pronto, Tudo certo, agora é só se divertir instalando o melhor Add-on BR!**
-  </ul>
-</p>
+</ul>
 
-## Aproveite!
+                                      
+                                       
+
+</p>
