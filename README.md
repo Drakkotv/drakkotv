@@ -9,7 +9,7 @@
     <li>Clque em "Adicionar Origem"</li>
     <li>O endereço para a fonte é <code>https://drakkotv.github.io/drakkotv/</code> (Dê o nome de "Drakkotv+").</li>
     <li>Confirme e retorne a tela principal, e vá para "Add-ons"</li>
-    <li>Em Add-ons, CLique  no icone de uma CAIXINGA DE PAPELÂO, em seguida vá em INSTALAR A PARTIR DE UM ARQUIVO ZIP. Na realação de Dispositivos, selecione o dispositivo Drakkotv+, e pressione ok</a>.</li>
+    <li>Em Add-ons, CLique  no icone de uma CAIXINHA DE PAPELÂO, em seguida vá em INSTALAR A PARTIR DE UM ARQUIVO ZIP. Na realação de itens, selecione a opção Drakkotv+, e pressione ok</a>.</li>
     <li>Escolha a versão do addon compatível com seu dispositivo </li>
     <li>Drakkotv Repositório</li>
     
