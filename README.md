@@ -11,7 +11,6 @@ Instruções para a adição no gestor:
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Drakkotv.repo", e instalar <a href="repository.drakkotv.zip">repository.drakkotv.zip</a>.</li> <a href="plugin.video.elementum-0.1.86.windows_x64.zip">plugin.video.elementum-0.1.86.windows_x64</a>.</li>
     
-    <li>https://drakkotv.github.io/drakkotv</li>
     
 </ul>
 
