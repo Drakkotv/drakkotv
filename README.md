@@ -10,7 +10,7 @@ Instruções para a adição no gestor:
     <li>O endereço para a fonte é <code>https://drakkotv.github.io/drakkotv/</code> (Dar o nome de "repository.drakkotv").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Drakkotv.repo", e instalar <a href="repository.drakkotv.zip">repository.drakkotv.zip</a>.</li> <a href="plugin.video.elementum-0.1.86.windows_x64.zip">plugin.video.elementum-0.1.86.windows_x64</a>.</li>
-    -
+    
     <li>Repositório Instalado!</li>
     
 </ul>
